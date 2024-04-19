@@ -34,8 +34,8 @@ The project is implemented in Python and requires the following libraries:
 - Joblib
 
 ## Contact
-- Your Name - [e.ghelbur@gmail.com](mailto:youremail@example.com)
-- Project Link - [https://github.com/eghelbur/Predict-House-Prices-Project/blob/main/Predict_House_Prices.ipynb](https://github.com/yourusername/boston-housing)
+- Your Name - [e.ghelbur@gmail.com](e.ghelbur@gmail.com)
+- Project Link - [https://github.com/eghelbur/Predict-House-Prices-Project/blob/main/Predict_House_Prices.ipynb]([Boston Housing Price Prediction](https://github.com/eghelbur/Predict-House-Prices-Project/blob/main/Predict_House_Prices.ipynb)
 
 ## Acknowledgements
 - UCI Machine Learning Repository for the dataset.
