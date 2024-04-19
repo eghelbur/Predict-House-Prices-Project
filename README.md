@@ -33,12 +33,6 @@ The project is implemented in Python and requires the following libraries:
 - Seaborn
 - Joblib
 
-## Installation and Usage
-Details for setting up the environment and using the model for predictions can be found in the [Installation](#installation) and [Usage](#usage) sections below.
-
-## Model Performance
-The model's performance, evaluated by R-squared and Mean Squared Error, indicates a strong predictive power and is detailed in the [Model Performance](#model-performance) section.
-
 ## Contact
 - Your Name - [e.ghelbur@gmail.com](mailto:youremail@example.com)
 - Project Link - [https://github.com/eghelbur/Predict-House-Prices-Project/blob/main/Predict_House_Prices.ipynb](https://github.com/yourusername/boston-housing)
